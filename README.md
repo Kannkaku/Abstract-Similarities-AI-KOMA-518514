@@ -1,2 +1,5 @@
-# Abstract-Similarities-AI-KOMA-518514
-Tugas Mata Kuliah Kecerdasan Artifisial (AI) KOMA UGM. Membandingkan kesamaan antar abstrak dengan menggunakan 2 fitur representasi dan 2 cara perhitungan similaritas
+# Abstract-Similarities-AI-KOMA
+## Nama & NIM
+Daffa Indra Wibowo (23/518514/PA/22253)
+## Deskripsi
+Tugas mata kuliah kecerdasan artifisial (AI) KOM A UGM. Membandingkan kemiripan antar abstrak dengan menggunakan 2 fitur representasi dan 2 cara menghitung similaritas
